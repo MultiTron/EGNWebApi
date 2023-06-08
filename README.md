@@ -1,6 +1,6 @@
 # EGNWebApi
 
-##EGN Generator and Reader, with Console UI and a Web API.##
+EGN Generator and Reader, with Console UI and a Web API.
 ---
 1. The **Console UI** was created for testing and debugging.
 2. The **Web API** was created with ASP.NET Core WebAPI with the new minimal API technology and Swagger for testing.
